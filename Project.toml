@@ -1,0 +1,7 @@
+name = "TestePacote"
+uuid = "f6c3ff5e-eeb9-56c6-8c25-15f415605710"
+authors = ["Eduardo <eduardo.alves@polo.ufsc.br> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
